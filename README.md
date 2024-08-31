@@ -6,9 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdeepdrall&label=Profile%20views&color=0e75b6&style=flat" alt="yashdeepdrall" /> </p>
 
 - 🌱 I’m currently learning **Various programming languages to be a FullStack Developer**
-- 👨‍💻 All of my projects are available at [XYZ](XYZ)
 - 📫 How to reach me **yashdeepdrall@gmail.com**
-- 📄 Know about my experiences [RESUME](RESUME)
 - ⚡ Fun fact **I am funny as well as serious person 😎**
 
 <h3 align="left">Connect with me:</h3>
